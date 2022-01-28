@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **German Traffic Sign Recognition Benchmark**
 
-- 🌱 I’m currently learning **ML Algorithms**
+- 🌱 I’m currently learning **life lessons**
 
 - 👯 I’m looking to collaborate on **ML projects**
 
