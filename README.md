@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **ML projects**
 
-- 💬 Ask me about **my passion**
+- 💬 Ask me about **anything thats bothering you!**
 
 - 📫 How to reach me **vidyarthvd3@gmail.com**
 
