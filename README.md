@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vidyarth V</h1>
-<h3 align="center">A passionate ML enthusiast & Research Aspirant</h3>
+<h3 align="center">Passionate ML Enthusiast & Research Aspirant</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vid19&label=Profile%20views&color=0e75b6&style=flat" alt="vid19" /> </p>
 
