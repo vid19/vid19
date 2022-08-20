@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Vidyarth V</h1>
-<h3 align="center">Curious Learner & Research Aspirant</h3>
+<h3 align="center">Research Aspirant</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vid19&label=Profile%20views&color=0e75b6&style=flat" alt="vid19" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vid19" alt="vid19" /></a> </p>
 
-- 🔭 I’m currently working on **German Traffic Sign Recognition Benchmark  and Boolean Satisfiability Problem**
+- 🔭 I’m currently working on **Image processing and German Traffic Sign Recognition Benchmark**
 
-- 🌱 I’m currently learning **life lessons and for my semester exams!**
+- 🌱 I’m currently learning **life lessons!**
 
-- 👯 I’m looking to collaborate on **ML and IoT projects**
+- 👯 I’m looking to collaborate on **ML and Computer Vision**
 
 <!--- 💬 Ask me about **anything that bothers you!**
 
