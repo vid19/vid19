@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vid19" alt="vid19" /></a> </p>
 
-- 🔭 I’m currently working on **Image processing and German Traffic Sign Recognition Benchmark**
+- 🔭 I’m currently working on **Image processing and App Development**
 
 - 🌱 I’m currently learning **life lessons!**
 
